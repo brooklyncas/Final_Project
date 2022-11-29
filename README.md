@@ -1,7 +1,7 @@
 # Adrenaline Junkies
 Final Project for CS 0010
 **Description**
-This is a repository meant for the final project for CS0010. It is a Jupyter Notebook findi
+This is a repository meant for the final project for CS0010. It is a Jupyter Notebook meant for finding the "best" neighborhood in Pittsburgh.
 **Group Members:**
 Hleb Ksianevich - HLK45@pitt.edu
 Brooklyn Castleberry - BNC38@pitt.edu
